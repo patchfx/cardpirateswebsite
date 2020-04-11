@@ -11,7 +11,7 @@ title: Card Pirates
       <h2>Avast there!</h2>
       <p class="lead">Card Pirates is a fun thematic strategy card game for 2 - 4 players. Out soon for iPhone/iPad.</p>
       <h4>Tell me when it's ready...</h4>
-      <form class='form-inline' role='form' action="https://thinkcodelearn.createsend.com/t/r/s/ttlylhk/" method="post">
+      <form class='form-inline' role='form' data-netlify="true" method="post">
         <div class='form-group'>
           <label class='sr-only' for="fieldEmail">Email</label>
           <input id="fieldEmail" name="cm-ttlylhk-ttlylhk" class='form-control' type="email" required placeholder='Enter email'/>
@@ -52,7 +52,7 @@ title: Card Pirates
   <div class="col-md-4">
     <h2>Sign up for updates</h2>
 
-<form role='form' action="https://thinkcodelearn.createsend.com/t/r/s/ttlylhk/" method="post">
+<form role='form' data-netlify="true" method="post">
 <div class='form-group'>
 <label class='' for="fieldName">Name</label>
 <input id="fieldName" name="cm-name" type="text" class='form-control' placeholder='Enter name'/>
