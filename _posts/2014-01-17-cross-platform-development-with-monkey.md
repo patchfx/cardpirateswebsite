@@ -19,7 +19,7 @@ devices. We wanted to target both iOS and Android, so the development platform
 had to be cross-platform and allow us to develop the game in relatively short
 amount of time (we set ourselves an ambitious deadline).
 
-Introducing [Monkey-X](http://www.monkeycoder.co.nz)! Monkey is primarily a games
+Introducing [Monkey-X](https://www.monkeycoder.co.nz)! Monkey is primarily a games
 programming language (often extended further) which when compiled can be
 translated into a number of platforms, including C++, C#, Java, Javascript and
 ActionScript. More specifically the games can be run on iOS, XBox, Android,
@@ -35,9 +35,9 @@ dealing cards, drawing the map, calculating valid moves and actually making
 those moves on the game board. Phew.
 
 We are certainly aiming for a more playable demo for next Friday, so watch out
-for that! In the meantime you can log in to [our new twitter account](http://twitter.com/cardpirates) to get updates, or our [facebook page](https://www.facebook.com/cardpirates) - or you can keep coming back to this blog for more. Sign up to receive updates on the upcoming mobile/tablet app:
+for that! In the meantime you can log in to [our new twitter account](https://twitter.com/cardpirates) to get updates, or our [facebook page](https://www.facebook.com/cardpirates) - or you can keep coming back to this blog for more. Sign up to receive updates on the upcoming mobile/tablet app:
 
-<form class='form-inline' role='form' action="http://thinkcodelearn.createsend.com/t/r/s/ttlylhk/" method="post">
+<form class='form-inline' role='form' action="https://thinkcodelearn.createsend.com/t/r/s/ttlylhk/" method="post">
   <div class='form-group'>
     <label class='sr-only' for="fieldName">Name</label>
     <input id="fieldName" name="cm-name" type="text" class='form-control' placeholder='Enter name'/>
